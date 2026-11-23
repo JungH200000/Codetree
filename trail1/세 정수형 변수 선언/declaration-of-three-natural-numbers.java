@@ -5,6 +5,6 @@ public class Main {
         int num2 = 23;
         int num3 = 30;
 
-        System.out.println(num1 + " + " + num2 + " = " + num3);
+        System.out.printf("%d + %d = %d", 7, 23, 30);
     }
 }
