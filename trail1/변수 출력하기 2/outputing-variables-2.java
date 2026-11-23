@@ -5,6 +5,6 @@ public class Main {
         char b = 'C';
 
         
-        System.out.printf("%c!.....!%d", b, a);
+        System.out.println(b + "!.....!" + a);
     }
 }
